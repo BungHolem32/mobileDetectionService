@@ -1,0 +1,14 @@
+{
+    "name": "ilanvac/mobile-detection-service",
+    "description": "mobile detection service for web",
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8",
+        "larapack/dd": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Ilan Vachte",
+            "email": "ilanvac@gmail.com"
+        }
+    ]
+}
